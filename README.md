@@ -1,20 +1,20 @@
 ## Introduction
 
 
-<b>Discipline | <b>ASHISH KUMAR
+<b>Discipline | ASHISH KUMAR <b>
 :--|:--|
-<b> Lab | <b> MINI PROJECT
-<b> Experiment|     <b> Characterization_of_Quantum_Dot_Solar_Cell
+<b> Lab |  MINI PROJECT LAB <b>
+<b> Experiment|  Characterization_of_Quantum_Dot_Solar_Cell <b>
 
 ### About the Experiment 
 
 This mini project simulates the characterization of a Quantum Dot Solar Cell using a virtual laboratory. It helps users understand the working principles and photovoltaic properties of quantum dot solar cells by analyzing parameters such as voltage, current, power, and efficiency under different conditions. The experiment provides an interactive learning environment to explore solar cell performance without requiring physical laboratory equipment.
 
-<b>Name of Developer | <b> ASHISH KUMAR 
+<b>Name of Developer | ASHISH KUMAR <b>
 :--|:--|
-<b> Institute | <b> RAJKIYA ENGINEERING COLLEGE, BANDA 
-<b> Email id|     <b>  ashishkumarashish96285@gmail.com
-<b> Department |  <b> INFORMATION TECHNOLOGY
+<b> Institute | RAJKIYA ENGINEERING COLLEGE, BANDA <b>
+<b> Email id|  ashishkumarashish96285@gmail.com <b>
+<b> Department | INFORMATION TECHNOLOGY <b>
 
 ### Contributors List
 
