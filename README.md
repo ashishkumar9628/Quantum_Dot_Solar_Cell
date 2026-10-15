@@ -21,4 +21,5 @@ This mini project simulates the characterization of a Quantum Dot Solar Cell usi
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | ASHISH KUMAR | STUDENT | INFORMATION TECHNOLOGY | REC BANDA UP | 2507340130019@recbanda.ac.in
+Ashish kumar
 
